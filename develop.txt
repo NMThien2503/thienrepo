@@ -1,1 +1,2 @@
  update user1
+update user1 lan 3
